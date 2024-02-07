@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mike! <br/><a href="">Developer</a>, <a href="">Newscast Director</a>, <a href="">YouTuber</a></h1>
+<h1>Hi, I'm Michael! <br/><a href="">Developer</a>, <a href="">Newscast Director</a>, <a href="">YouTuber</a></h1>
 
 <h2>👨‍💻 Web Development Projects:</h2>
 
